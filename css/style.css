@@ -1,0 +1,32 @@
+
+body{
+	background-color: lightcyan;
+}
+header{
+	text-align: center;
+	color: blue;
+}
+
+
+.wrapper{
+	background-color: lightgrey;
+	width:60%;
+	margin:0 auto;
+    color: black;
+	border:5px solid #ddd;
+}
+label{
+	font-size:20px;
+}
+.first_name, .last_name, .email, .password{
+	width:90%;
+	height:15px;
+	padding: 10px;
+	font-size: 15px;
+
+}
+.message{
+	font-size: 15px;
+	padding: 10px;
+	width: 90%;
+}
